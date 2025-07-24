@@ -1,5 +1,8 @@
 # AI Sustainability Analyzer for MSMEs
 
+# DEPLOYED LINK
+https://ecoanalyzer.netlify.app/
+
 A comprehensive AI-powered platform that helps Indian MSMEs track, analyze, and improve their sustainability performance through intelligent document processing and ESG reporting.
 
 ## 🚀 Features
@@ -174,8 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions, please contact:
-- Email: support@deepwoodsgreen.com
-- Website: [deepwoodsgreen.com](https://deepwoodsgreen.com)
+- Email: devarannagaripraneeth@gmail.com
 
 ---
 
